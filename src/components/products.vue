@@ -199,161 +199,161 @@ import router from '@/router';
 const products = ref([
     {
         id: 1,
-        image: "./images/product 1.svg",
+        image: "/images/product 1.svg",
         name: "Плитка Tiger Кафель мозаика (8,2x8,2) 25x25",
         price: "1.000.000 cум"
     },
 
     {
         id: 2,
-        image: "./images/products 2.svg",
+        image: "/images/products 2.svg",
         name: "Плитка Tiger Кафель мозаика (8,2x8,2) 25x25",
         price: "1.000.000 cум"
     },
 
     {
         id: 3,
-        image: "./images/product 3.svg",
+        image: "/images/product 3.svg",
         name: "Плитка Tiger Кафель мозаика (8,2x8,2) 25x25",
         price: "1.000.000 cум"
     },
 
     {
         id: 4,
-        image: "./images/product 4.svg",
+        image: "/images/product 4.svg",
         name: "Плитка Tiger Кафель мозаика (8,2x8,2) 25x25",
         price: "1.000.000 cум"
     },
 
     {
         id: 5,
-        image: "./images/product 5.svg",
+        image: "/images/product 5.svg",
         name: "Плитка Tiger Кафель мозаика (8,2x8,2) 25x25",
         price: "1.000.000 cум"
     },
 
     {
         id: 6,
-        image: "./images/products 6.svg",
+        image: "/images/products 6.svg",
         name: "Плитка Tiger Кафель мозаика (8,2x8,2) 25x25",
         price: "1.000.000 cум"
     },
 
     {
         id: 7,
-        image: "./images/product 7.svg",
+        image: "/images/product 7.svg",
         name: "Плитка Tiger Кафель мозаика (8,2x8,2) 25x25",
         price: "1.000.000 cум"
     },
 
     {
         id: 8,
-        image: "./images/product 8.svg",
+        image: "/images/product 8.svg",
         name: "Плитка Tiger Кафель мозаика (8,2x8,2) 25x25",
         price: "1.000.000 cум"
     },
 
     {
         id: 9,
-        image: "./images/product 9.svg",
+        image: "/images/product 9.svg",
         name: "Плитка Tiger Кафель мозаика (8,2x8,2) 25x25",
         price: "1.000.000 cум"
     },
 
     {
         id: 10,
-        image: "./images/product 10.svg",
+        image: "/images/product 10.svg",
         name: "Плитка Tiger Кафель мозаика (8,2x8,2) 25x25",
         price: "1.000.000 cум"
     },
 
     {
         id: 11,
-        image: "./images/product 11.svg",
+        image: "/images/product 11.svg",
         name: "Плитка Tiger Кафель мозаика (8,2x8,2) 25x25",
         price: "1.000.000 cум"
     },
 
     {
         id: 12,
-        image: "./images/product 1.svg",
+        image: "/images/product 1.svg",
         name: "Плитка Tiger Кафель мозаика (8,2x8,2) 25x25",
         price: "1.000.000 cум"
     },
 
     {
         id: 13,
-        image: "./images/product 1.svg",
+        image: "/images/product 1.svg",
         name: "Плитка Tiger Кафель мозаика (8,2x8,2) 25x25",
         price: "1.000.000 cум"
     },
 
     {
         id: 14,
-        image: "./images/product 8.svg",
+        image: "/images/product 8.svg",
         name: "Плитка Tiger Кафель мозаика (8,2x8,2) 25x25",
         price: "1.000.000 cум"
     },
 
     {
         id: 15,
-        image: "./images/product 3.svg",
+        image: "/images/product 3.svg",
         name: "Плитка Tiger Кафель мозаика (8,2x8,2) 25x25",
         price: "1.000.000 cум"
     },
 
     {
         id: 16,
-        image: "./images/product 4.svg",
+        image: "/images/product 4.svg",
         name: "Плитка Tiger Кафель мозаика (8,2x8,2) 25x25",
         price: "1.000.000 cум"
     },
 
     {
         id: 17,
-        image: "./images/product 7.svg",
+        image: "/images/product 7.svg",
         name: "Плитка Tiger Кафель мозаика (8,2x8,2) 25x25",
         price: "1.000.000 cум"
     },
 
     {
         id: 18,
-        image: "./images/product 5.svg",
+        image: "/images/product 5.svg",
         name: "Плитка Tiger Кафель мозаика (8,2x8,2) 25x25",
         price: "1.000.000 cум"
     },
 
     {
         id: 19,
-        image: "./images/product 4.svg",
+        image: "/images/product 4.svg",
         name: "Плитка Tiger Кафель мозаика (8,2x8,2) 25x25",
         price: "1.000.000 cум"
     },
 
     {
         id: 20,
-        image: "./images/product 10.svg",
+        image: "/images/product 10.svg",
         name: "Плитка Tiger Кафель мозаика (8,2x8,2) 25x25",
         price: "1.000.000 cум"
     },
 
     {
         id: 21,
-        image: "./images/product 1.svg",
+        image: "/images/product 1.svg",
         name: "Плитка Tiger Кафель мозаика (8,2x8,2) 25x25",
         price: "1.000.000 cум"
     },
 
     {
         id: 22,
-        image: "./images/product 8.svg",
+        image: "/images/product 8.svg",
         name: "Плитка Tiger Кафель мозаика (8,2x8,2) 25x25",
         price: "1.000.000 cум"
     },
 
     {
         id: 23,
-        image: "./images/products 6.svg",
+        image: "/images/products 6.svg",
         name: "Плитка Tiger Кафель мозаика (8,2x8,2) 25x25",
         price: "1.000.000 cум"
     },
